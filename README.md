@@ -86,19 +86,10 @@ LLM-Based Report Generation
 ```text
 ├── datasets/          # Dataset references and preprocessing
 ├── docs/              # Research papers and documentation
-├── notebooks/         # Experiments and exploratory analysis
 ├── src/               # Source code
-├── models/            # Saved models and checkpoints
 ├── reports/           # Progress reports and findings
 ├── presentations/     # PPTs and project presentations
 └── README.md
 ```
 
 ---
-
-## Current Phase
-
-* Literature Review
-* Architecture Study
-* Dataset Exploration
-* Technology Familiarization
